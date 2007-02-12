@@ -1,6 +1,6 @@
 %define		modname spam
 Summary:	Drupal Spam Module
-Summary(pl):	Modu³ Spam dla Drupala
+Summary(pl.UTF-8):   ModuÅ‚ Spam dla Drupala
 Name:		drupal-mod-%{modname}
 Version:	2.0.13
 Release:	0.1
@@ -32,13 +32,13 @@ spammer's own website. This module can automatically detect spam,
 instantly unpublish it, and send notification to the site
 administrator.
 
-%description -l pl
-Modu³ spam to potê¿ny zbiór narzêdzi przygotowanych aby pomóc
-administratorom serwisów WWW automatycznie radziæ sobie ze spamem.
-Spam to dowolna tre¶æ wysy³ana na stronê nie zwi±zana z tematem,
-zwykle w postaci reklam i odno¶ników do w³asnego serwisu spamera. Ten
-modu³ potrafi automatycznie wykrywaæ spam, natychmiast anulowaæ jego
-publikacjê i wys³aæ powiadomienie do administratora serwisu.
+%description -l pl.UTF-8
+ModuÅ‚ spam to potÄ™Å¼ny zbiÃ³r narzÄ™dzi przygotowanych aby pomÃ³c
+administratorom serwisÃ³w WWW automatycznie radziÄ‡ sobie ze spamem.
+Spam to dowolna treÅ›Ä‡ wysyÅ‚ana na stronÄ™ nie zwiÄ…zana z tematem,
+zwykle w postaci reklam i odnoÅ›nikÃ³w do wÅ‚asnego serwisu spamera. Ten
+moduÅ‚ potrafi automatycznie wykrywaÄ‡ spam, natychmiast anulowaÄ‡ jego
+publikacjÄ™ i wysÅ‚aÄ‡ powiadomienie do administratora serwisu.
 
 %prep
 %setup -q -n %{modname}
