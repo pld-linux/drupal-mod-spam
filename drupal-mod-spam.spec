@@ -1,6 +1,6 @@
 %define		modname spam
 Summary:	Drupal Spam Module
-Summary(pl.UTF-8):   Moduł Spam dla Drupala
+Summary(pl.UTF-8):	Moduł Spam dla Drupala
 Name:		drupal-mod-%{modname}
 Version:	2.0.13
 Release:	0.1
