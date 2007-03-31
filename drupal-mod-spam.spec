@@ -6,9 +6,9 @@ Version:	2.0.13
 Release:	0.1
 License:	BSD
 Group:		Applications/WWW
-Source0:	http://www.kerneltrap.org/jeremy/drupal/spam/spam-%{version}.tar.bz2
+Source0:	http://kerneltrap.org/jeremy/drupal/spam/spam-%{version}.tar.bz2
 # Source0-md5:	e00cc205f912744ba0613d21618d5988
-URL:		http://www.kerneltrap.org/jeremy/drupal/spam/
+URL:		http://kerneltrap.org/jeremy/drupal/spam/
 BuildRequires:	rpmbuild(macros) >= 1.194
 Requires:	drupal >= 4.6
 BuildArch:	noarch
